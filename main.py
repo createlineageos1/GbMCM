@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
     print("GbMCM is started.")
     while True:
-        user_inp = input("sen: ").strip()
+        user_inp = input("you: ").strip()
         if user_inp.lower() in ["exit", "quit", "q"]:
             break
         seed = tuple(user_inp.split()[:order])
