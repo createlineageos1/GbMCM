@@ -12,3 +12,4 @@ Hi! How’s your mood today?   Feeling good! How about you?
 Hey there! What’s new?      Not much, same old. How’s it with you?
 Hello! How’s your day going?  Pretty smooth, thanks! And yours?
 Hi! What’s happening today?  Just working and chilling, you?
+Bye. Bye!
